@@ -39,14 +39,9 @@
 }
 
 .mainContent{
-    height: 50vh, max-content;
     width: fit-content;
-    margin-left: 6rem;
-    margin-right: 6rem;
     margin-top: 3rem;
-    margin-bottom: 3rem;
     background-image: url('pictures/blank\ hero\ background.png');
-    background-size: 50em;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
